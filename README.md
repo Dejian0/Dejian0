@@ -19,7 +19,7 @@ Most of my research code lives in private lab repositories.
 Python · PyTorch · TypeScript · C++ · Isaac Lab · Newton · RSL-RL · FastAPI · PostgreSQL · Docker · Slurm
 
 ### Contact
-dezhou@mit.edu · [dejianzhou.com](https://dejianzhou.com) · [LinkedIn](https://linkedin.com/in/dejian-zhou)
+[dejianzhou.com](https://dejianzhou.com) · [LinkedIn](https://linkedin.com/in/dejian-zhou)
 <!--
 **Dejian0/Dejian0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
